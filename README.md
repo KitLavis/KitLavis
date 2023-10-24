@@ -1,4 +1,6 @@
-### Hi there 👋
+### Kit Lavis
+
+Hi all! I'm Kit, a former archaeologist turned developer, currently studying with the Code Institute and searching for my entry into the profession. I'm constantly seeking oppurtunities for self-improvement and skill-development, and I revel in the idea of one day combining my experience in the archaeology industry with my ever-improving development skills. So please, feel free to flick through my repositories, and maybe we will collaborate in the future!
 
 <!--
 **KitLavis/KitLavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
