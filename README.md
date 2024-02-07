@@ -1,8 +1,8 @@
 ## Kit Lavis
 
-Hi there! I'm Kit, an archaeologist turned developer, currently studying with the Code Institute and searching for my entry into the profession.
+I am a driven and determined junior developer, currently completing the Code Institute's full-stack software development diploma. I hope to combine my previous exposure to geospatial systems from my time as an archaeologist - namely using ArcGIS to process data gathered from geospatial and geophysical survey - with my ever-improving development skills, in order to find my entry into the industry.
 
-I'm constantly seeking opportunities for self-improvement and skill-development, and I revel in the idea of one day combining my knowledge and passion for archaeology with my ever-improving development skills.
+I decided to change careers as the path I was on did not align with how I foresaw my future. Hard work and determination on this new path may eventually lead to greater flexibility in terms of remote work, allowing my partner and I to spend more time in our home countries of England and Sardinia.
 
 <!--
 **KitLavis/KitLavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
